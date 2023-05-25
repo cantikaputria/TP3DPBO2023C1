@@ -17,8 +17,10 @@ Terdapat 3 tabel yaitu
 # Penjelasan Program
 1. Program menampilkan daftar film beserta dengan sutradara dan genrenya
 2. Tiap tabel dapat melakukan Create, Read, Delete, dan Update
-3. Terdapat fungsi searching berdasarkan judul film
-4. Terdapat fungsi untuk sorting secara ascending dan descending berdasarkan judul film
+3. Tabel sutradara dan genre ditampilkan dengan view berbentu tabel
+4. Tabel film ditampilkan dengan view berbentuk card yang bisa di klik untuk melihat detailnya
+5. Terdapat fungsi searching berdasarkan judul film
+6. Terdapat fungsi untuk sorting secara ascending dan descending berdasarkan judul film
 
 # Alur dan Dokumentasi
 https://github.com/cantikaputria/TP3DPBO2023C1/assets/85111014/05db8b59-0978-4045-ba8e-f027ecef64a7
