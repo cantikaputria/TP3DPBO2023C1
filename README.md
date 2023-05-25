@@ -1,7 +1,8 @@
 # TP3DPBO2023C1
+Repository untuk memenuhi TP3 DPBO
 
 # Janji
-Saya Cantika Putri Arbiliansyah dengan NIM 2103727 mengerjakan soal TP2 dalam Praktikum mata kuliah Desain dan Pemrograman Berorientasi Objek, untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+Saya Cantika Putri Arbiliansyah dengan NIM 2103727 mengerjakan soal TP3 dalam Praktikum mata kuliah Desain dan Pemrograman Berorientasi Objek, untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 # Desain Program
 ![Design Database](https://github.com/cantikaputria/TP3DPBO2023C1/assets/85111014/05a32d15-65bf-4055-b59f-eb382eebae05)
